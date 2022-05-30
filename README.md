@@ -16,4 +16,4 @@ Il y a plusieurs chantiers dans ce projet:
 ## Électricité
 ### Câblage du couloir du T2
 On veut câbler le couloir du T2 dont voici le plan:
-![]
+![](images/plan-couloir.png)
