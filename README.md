@@ -19,3 +19,6 @@ On veut câbler le couloir du T2 dont voici le plan:
 
 ![](images/plan-couloir.png)
 
+Plus précis, à coté de la porte d'entrée:
+
+![](images/entrée.png)
