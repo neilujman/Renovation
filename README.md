@@ -15,7 +15,7 @@ Il y a plusieurs chantiers dans ce projet:
 
 ## Électricité
 
-* [Couloir T2](https://github.com/neilujman/Renovation/edit/main/README.md#C%C3%A5blage%20du%20couloir%20du%20T2)
+* [Couloir T2](https://github.com/neilujman/Renovation/blob/main/README.md#c%C3%A2blage-du-couloir-du-t2))
 
 ### Câblage du couloir du T2
 On veut câbler le couloir du T2 dont voici le plan :
