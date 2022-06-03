@@ -14,6 +14,9 @@ Il y a plusieurs chantiers dans ce projet:
 Évidemment, chaque chantier est interconnecté avec un ou plusieurs autres chantiers. Par exemple, l'aménagement de la cuisine nécessite d'y faire l'électricité et la plomberie.
 
 ## Électricité
+
+* [Couloir T2](https://github.com/neilujman/Renovation/edit/main/README.md#C%C3%A5blage%20du%20couloir%20du%20T2)
+
 ### Câblage du couloir du T2
 On veut câbler le couloir du T2 dont voici le plan :
 
