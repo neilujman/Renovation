@@ -15,10 +15,16 @@ Il y a plusieurs chantiers dans ce projet:
 
 ## Électricité
 ### Câblage du couloir du T2
-On veut câbler le couloir du T2 dont voici le plan:
+On veut câbler le couloir du T2 dont voici le plan :
 
 ![](images/plan-couloir.png)
 
 Plus précis, à coté de la porte d'entrée:
 
 ![](images/entrée.png)
+
+
+### Câblage du rez-de-chaussée du T2
+On veut câbler le rez-de-chaussée du T2 dont voici le plan :
+
+![](images/plan-rdc.png)
