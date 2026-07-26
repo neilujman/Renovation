@@ -1,0 +1,67 @@
+Lundi 27/07/2026
+
+=========
+OBJECTIFS
+=========
+
+┌────────────────────────────┐
+| Finir le premier jambage : |
+└ -------------------------- ┘
+h = 35 cm, l = 15 cm, L = 55 cm
+V = 0.35*.15*.55 = .029 m3 = 29 litres
+=> 3 seaux de bétons
+Monter 1 sac de mélange béton (1 sac = 2 seaux ) + vider la brouette déjà remplie de mélange.
+ ==> couper une trappe dans le plancher du grenier ou retirer les planches au niveau de l'installation de l'échaffaudage. Faire le sac avec Elda à l'aide des sangles.
+
+-------------------------
+Faire le deuxième jambage
+-------------------------
+
+Deuxième jambage:
+* Enlever les pierres
+* Coffrer
+* Couler le béton
+
+Enlever les pierres:
+2.00 m de haut, 15 cm de large, 55 cm de profondeur
+volume V = 165 litres
+
+
+Remplir 165 litres de béton = 17 seaux de 10 litres.
+
+=========
+PROGRAMME
+=========
+
+------------------
+Matinée :
+------------------
+
+Installer échauffage au 1er étage : 
+prévoir le retrait de une ou deux lattes de plancher  => durée = 1h
+
+finir le coffrage du premier jambage.  => durée = 1h30
+Prévoir un jour de quelques centimètres pour y couler le béton  => durée = 2h30
+
+Quand béton durcit, y faire un mortier (chaux?) dans le vide restant entre le haut du jambage et le bas du linteau
+
+(9h-13h ????)
+
+------------
+Après-midi :
+------------
+
+Retirer pierre => durée 5h30
+(14h-19h????)
+
+--------
+Soirée :
+--------
+
+Coffrer deuxième jambage => durée 1h30
+
+(20h-22h ?????)
+
+
+
+
