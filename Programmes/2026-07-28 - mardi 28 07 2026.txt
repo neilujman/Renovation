@@ -4,10 +4,10 @@ Mardi 28/07/2026
 OBJECTIFS
 =========
 
-Finir deuxième jambage
+Finir deuxième jambage  (FINIR ENLEVER PIERRES + SCIER LES SAILLANTES)
 
 
-Mortier premier jambage
+Mortier premier jambage  (DEJA FAIT LA VEILLE)
 
 
 Couler deuxième jambage
@@ -22,10 +22,12 @@ on peut diviser sac de ciment en 2 (en 4), et ajouter 2 sac de béton (1 sac) et
 PROGRAMME
 ==========
 
-Matin : course
+Matin : scier les pierres saillantes, poser les joues pour permettre des mettre les faces au fur et à mesure.
 
-Après-midi : coulage
-1/2 heure par seaux (si Elda) + 1/4 coulage
+Après-midi : 
+course
+coulage
+ └> 1/2 heure par seaux (si Elda) + 1/4 coulage
 
 4 seaux dans l'après-midi
 
