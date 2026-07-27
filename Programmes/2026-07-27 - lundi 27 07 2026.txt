@@ -11,7 +11,8 @@ h = 35 cm, l = 15 cm, L = 55 cm
 V = 0.35*.15*.55 = .029 m3 = 29 litres
 => 3 seaux de bétons
 Monter 1 sac de mélange béton (1 sac = 2 seaux ) + vider la brouette déjà remplie de mélange.
- ==> couper une trappe dans le plancher du grenier ou retirer les planches au niveau de l'installation de l'échaffaudage. Faire le sac avec Elda à l'aide des sangles.
+ ==> couper une trappe dans le plancher du grenier ou retirer les planches au niveau de l'installation de l'échaffaudage.
+Faire monter le sac avec Elda à l'aide des sangles.
 
 -------------------------
 Faire le deuxième jambage
